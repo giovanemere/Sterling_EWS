@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: eduart.doria
+Class-Path: /Sterling/B2B/install/jar/ews/2.0/httpclient-4.3.5.jar /St
+ erling/B2B/install/jar/ews/2.0/httpcore-4.3.3.jar /Sterling/B2B/insta
+ ll/jar/ews/2.0/commons-codec-1.6.jar
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_241
+

@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: eduart.doria
+Class-Path: . httpclient-4.3.5.jar httpcore-4.3.3.jar commons-logging-
+ 1.2.jar commons-codec-1.6.jar
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_241
+

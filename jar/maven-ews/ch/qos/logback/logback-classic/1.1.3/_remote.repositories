@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 02 17:08:45 COT 2019
+logback-classic-1.1.3.jar>central=
+logback-classic-1.1.3-sources.jar>central=
+logback-classic-1.1.3.pom>central=
